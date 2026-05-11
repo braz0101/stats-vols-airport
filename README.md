@@ -1,4 +1,4 @@
-# ✈️ Analyse Statistique de Données de Vols — M1 SRT
+# ✈️ Analyse Statistique de Données de Vols
 
 Projet de statistiques et analyse de données portant sur un jeu de données de vols aéroportuaires.
 
