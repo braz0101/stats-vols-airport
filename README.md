@@ -1,6 +1,6 @@
 # ✈️ Analyse Statistique de Données de Vols — M1 SRT
 
-Projet de statistiques et analyse de données (Master 1 SRT) portant sur un jeu de données de vols aéroportuaires.
+Projet de statistiques et analyse de données portant sur un jeu de données de vols aéroportuaires.
 
 ---
 
