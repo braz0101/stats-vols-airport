@@ -70,4 +70,4 @@ stats-airport/
 
 ## 👤 Auteur
 
-**IFALL** — Master 1 SRT
+**IFALL**
